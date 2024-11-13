@@ -38,7 +38,6 @@ The farm also facilitates the [Dype Røtter](https://dyperoetter.org/) social en
 
 *Learning African skills - dyperoetter.org*
 
-
 I then joined the local [REKO-ring](https://www.rekonorge.no/), a network that connects local producers and consumers for pre-ordered, bi-weekly collection, all over Norway. Through this, I began doing most of my shopping with local producers. I also gained a deeper awareness of the struggles local producers face in competing with supermarket imports, and the vulnerabilities of a food system reliant on global supply chains. Seeing parallels with the situation back home, I became increasingly frustrated by the lack of support for local producers and the pressures driving unsustainable agricultural practices (don't get me started on the [declining Irish water quality due to agricultural nitrates run off](https://www.epa.ie/news-releases/news-releases-2022/water-quality-of-our-rivers-lakes-estuaries-and-coastal-areas-continues-to-decline-says-epa-.php)). The loss of local producers significantly threatens food security in an increasingly unpredictable world, both environmentally and politically. This was clearly shown with the [4% drop in milk production in Ireland in 2023, in part due to unforseen weather conditions—the first such decline since the EU lifted milk quotas in 2015](https://nationalmilkagency.ie/wp-content/uploads/2024/08/NMA-Annual-Report-2023-EN.pdf) and when [wheat prices jumped in response to Russias invasion of Ukraine in 2022](https://www.sciencedirect.com/science/article/abs/pii/S0305750X23002140).
 
 [![](https://ars.els-cdn.com/content/image/1-s2.0-S0305750X23002140-gr2.jpg)](https://www.sciencedirect.com/science/article/abs/pii/S0305750X23002140)
@@ -52,7 +51,11 @@ Moving home from Norway in June 2024, I decided to pursue a master’s in comput
 
 ## Reassurance & Inspiration
 
-Feeling quite lost last week, while trying to clearly identify the next steps, I attended a number of talks at the [Samhain Food and Culture Festival](https://foodcultureireland.ie/samhain/) in Kells. One panel discussion featured chef Conor Spacey (remember him from earlier?), national icon Darina Allen, PhD Micehelle Darmody and home economics teacher Stacey Smith. They each shared inspiring insights drawn from their own experiences engaging children with our food systems—prompting them to question where their food comes from, while sparking excitement around growing and cooking. They also expressed frustrations about the lack of widespread adoption and the desperate need for government policy to drive these initiatives. 
+Feeling quite lost last week, while trying to clearly identify the next steps, I attended a number of talks at the [Samhain Food and Culture Festival](https://foodcultureireland.ie/samhain/) in Kells. One panel discussion featured chef Conor Spacey (remember him from earlier?), national icon Darina Allen, PhD Micehelle Darmody and home economics teacher Stacey Smith. They each shared inspiring insights drawn from their own experiences engaging children with our food systems—prompting them to question where their food comes from, while sparking excitement around growing and cooking. They also expressed frustrations about the lack of widespread adoption and the desperate need for government policy to drive these initiatives.
+
+![](./samhain.jpeg)
+
+*Feeding Knowledge: Nurturing a Deeper Connection with Our Food - Samhain Food and Culture Festival, 2024*
 
 Later, I listened to George Lamb, of [Wildfarmed](https://wildfarmed.com/), who is driving a regenerative agriculture movement in the UK around wheat production and has recently seen increasing success in the mainstream market. He discussed their goal to become the gold standard for regenerative wheat production, the challenges they faced getting farmers on board, and in gaining partnerships with mainstream retailers. The day finished with a fantastic talk by Philip Boucher Hayes, presenter of *CountryWide*, among other things, where he explored what Ireland's food system might look like in the context of the latest climate projections driving home the scale and urgency of the issue.
 
