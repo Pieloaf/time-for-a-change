@@ -17,7 +17,8 @@ Soon after, I came across [*Wasted*](https://blastabooks.com/products/blasta-boo
 
 I wasn't aware at the time but later found the statistics around food waste to be quite shocking, showcasing one of the many broken aspects of our global food systems. For those interested: around [20% of all food produced ends up as waste](https://www.epa.ie/our-services/monitoring--assessment/waste/national-waste-statistics/food/), with [54% of that waste generated in the home](https://food.ec.europa.eu/food-safety/food-waste_en). This becomes even more concerning when you consider that [~30% of global emissions come from food production systems](https://ourworldindata.org/greenhouse-gas-emissions-food), while at the same time, around 10% of the population in both the [UK](https://commonslibrary.parliament.uk/research-briefings/cbp-9209/) and [Ireland](https://assets.gov.ie/230064/065ff541-d304-4bd6-8f4b-16ceb0b67fdb.pdf) are facing food poverty.
 
-[![](https://blastabooks.com/cdn/shop/files/BlastaBooks7_Wasted_Cover_render_1500x.png)](https://blastabooks.com/products/blasta-books-7-wasted)
+[![](https://blastabooks.com/cdn/shop/files/BlastaBooks7_Wasted_Cover_render_800x.png)](https://blastabooks.com/products/blasta-books-7-wasted)
+
 *Wasted by Conor Spacey, published by Blasta Books*
 
 ## Discovering Irish Food Production
@@ -33,13 +34,15 @@ Last December, I attended an open farm day at a small [family farm](https://repp
 
 The farm also facilitates the [Dype Røtter](https://dyperoetter.org/) social enterprise, a project run by Andy Ross, whom I first met at the farm café he operates, in addition to growing fruit and vegetables using regenerative practices. The café primarily uses their own and other local produce and they also work with refugees in the garden and café, supporting their integration into the community. This experience really highlighted for me the positive impact that sustainable, community-oriented food supply chains can have.
 
-[![](https://dyperoetter.org/wp-content/uploads/2023/05/photo_2021-12-03_10-38-21.jpg)](https://dyperoetter.org/flyktingerhistorie/)
-*Colours from the market garden - dyperoetter.org*
+[![](https://dyperoetter.org/wp-content/uploads/2023/05/photo_2021-06-15_17-22-31.jpg)](https://dyperoetter.org/flyktingerhistorie/)
+
+*Learning African skills - dyperoetter.org*
 
 
 I then joined the local [REKO-ring](https://www.rekonorge.no/), a network that connects local producers and consumers for pre-ordered, bi-weekly collection, all over Norway. Through this, I began doing most of my shopping with local producers. I also gained a deeper awareness of the struggles local producers face in competing with supermarkets imports, and the vulnerabilities of a food system reliant on global supply chains. Seeing parallels with the situation back home, I became increasingly frustrated by the lack of support for local producers and the pressures driving unsustainable agricultural practices. The loss of local producers significantly threatens food security in an increasingly unpredictable world, both environmentally and politically. This was clearly shown when [wheat prices jumped in response to Russias invasion of Ukraine in 2022](https://www.sciencedirect.com/science/article/abs/pii/S0305750X23002140), and the [4% drop in milk production in Ireland in 2023, in part due to unforseen weather conditions—the first such decline since the EU lifted milk quotas in 2015](https://nationalmilkagency.ie/wp-content/uploads/2024/08/NMA-Annual-Report-2023-EN.pdf).
 
 [![](https://ars.els-cdn.com/content/image/1-s2.0-S0305750X23002140-gr2.jpg)](https://www.sciencedirect.com/science/article/abs/pii/S0305750X23002140)
+
 *Impacts of the Russian invasion of Ukraine on the global wheat market - S. Devadoss, W. Ridley*
 
 ## Back to Engineering & Moving Home
@@ -50,8 +53,6 @@ Moving home from Norway in June 2024, I decided to pursue a master’s in comput
 ## Reassurance & Inspiration
 
 Feeling a bit lost last week, while trying to clearly identify the next steps, I attended a number of talks at the [Samhain Food and Culture Festival](https://foodcultureireland.ie/samhain/) in Kells. One panel discussion featured chef Conor Spacey (remember him from earlier?), national icon Darina Allen, PhD Micehelle Darmody and home economics teacher Stacey Smith. They spoke passionately about engaging young children with food systems—prompting kids to question where their food comes from, while sparking excitement around growing and cooking. As well as sharing their frustrations with wide spread adoption and the need further government policies to drive this. They each shared inspiring insights drawn from their own experiences. 
-
-
 
 Later, I listened to George Lamb, of [Wildfarmed](https://wildfarmed.com/), who is driving a regenerative agriculture movement in the UK around wheat production and has recently seen increasing success in the mainstream market. He discussed their goal to become the gold standard for regenerative wheat production, the challenges they faced getting farmers on board, and in gaining partnerships with mainstream retailers. The day finished with a fantastic talk by Philip Boucher Hayes, presenter of *CountryWide*, among other things, where he explored what Ireland's food system might look like in the context of the latest climate projections driving home the scale and urgency of the issue.
 
