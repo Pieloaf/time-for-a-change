@@ -1,10 +1,9 @@
 
 # New Experiences & Changing Perspectives
-<sup> Pierce Lowe | Nov. 13th 2024 </sup>
+**Why I’ve Decided to Pursue a Career in Climate Change and Food Systems** <br/>
+Pierce Lowe | Nov. 13th 2024
 
-
-###### Why I’ve Decided to Pursue a Career in Climate Change and Food Systems
-
+<hr />
 I want to start by expressing my gratitude to everyone who has supported me during my time in computer engineering. This change is not a reflection of any dissatisfaction with the time and support I've received, but rather the result of personal experiences, as outlined below, that have shifted my perspective and priorities.
 
 ## Moving Out
