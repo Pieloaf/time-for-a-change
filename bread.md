@@ -4,7 +4,7 @@
 ##### €12 · 7 spaces only · 17+
 ---
 
-Do you want to get hands-on with what makes gut-friendly, naturally fermented bread? In this 2-hour introductory class we'll get into all the basics of the sourdough bread making process.
+Do you want to get hands-on with the process of baking sourdough bread at home, on a schedule that works for you?
 
 **What we'll cover:**
 - The fundamentals: equipment, ingredients, and baker's percentages
