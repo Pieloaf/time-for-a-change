@@ -5,7 +5,6 @@
 ---
 
 Do you want to get hands-on with what makes gut-friendly, naturally fermented bread? In this 2-hour introductory class we'll get into all the basics of the sourdough bread making process.
-![](https://github.com/user-attachments/assets/384bde6d-049f-40c4-af79-f5401b6d85fd)
 
 **What we'll cover:**
 - The fundamentals: equipment, ingredients, and baker's percentages
