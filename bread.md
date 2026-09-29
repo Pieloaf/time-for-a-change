@@ -1,5 +1,5 @@
 ## Intro to Sourdough Workshop
-##### 📅 Saturday, 11th July, 6-8pm
+##### 📅 Sunday, 18th September, 6-8pm
 ##### 📍 Night Time Coop @ My Goodness Café, 24 Sullivan's Quay, Cork, T12 X867
 ##### €15 · 7 spaces only · 17+
 ---
