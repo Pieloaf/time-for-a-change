@@ -19,7 +19,8 @@ Do you want to get hands-on with the process of baking sourdough bread at home, 
 
 ### Book your spot
 
-<div id="eventbrite-widget-container-1992241862039"></div>
+<div id="eventbrite-widget-container-1999394816719"></div>
+
 <script src="https://www.eventbrite.ie/static/widgets/eb_widgets.js"></script>
 <script type="text/javascript">
     var exampleCallback = function() {
@@ -28,10 +29,12 @@ Do you want to get hands-on with the process of baking sourdough bread at home, 
     window.EBWidgets.createWidget({
         // Required
         widgetType: 'checkout',
-        eventId: '1992241862039',
-        iframeContainerId: 'eventbrite-widget-container-1992241862039',
+        eventId: '1999394816719',
+        iframeContainerId: 'eventbrite-widget-container-1999394816719',
+
         // Optional
         iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
